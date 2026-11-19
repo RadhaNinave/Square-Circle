@@ -1,0 +1,27 @@
+body {
+  background-color: #f5f6fa;
+}
+
+.title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: #facc15;
+  border: 1.5px solid #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: 160px;
+  height: 160px;
+  background-color: #2563eb;
+  border: 1.5px solid #1f2937;
+  border-radius: 50%;
+}
